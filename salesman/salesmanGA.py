@@ -332,7 +332,7 @@ def geneticAlgorithm(population, popSize, eliteSize, generations):
 
 cityList = []
 
-f = open("C:\\Users\\44756\\Documents\\Physigo\\TS1.txt", "r")
+f = open("C:\\Users\\...", "r")
 print(f.readline())
 
 for line in f:
